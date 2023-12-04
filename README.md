@@ -1,0 +1,4 @@
+- I like Netology
+- I don't sleep today 
+- I like coal
+- I am a student
